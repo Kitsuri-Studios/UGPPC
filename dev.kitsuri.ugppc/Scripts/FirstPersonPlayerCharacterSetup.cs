@@ -31,7 +31,7 @@ using UnityEngine;
 namespace UGPPC.dev.kitsuri.ugppc
 {
     [RequireComponent(typeof(CharacterController))]
-    public class MobileFPSController : MonoBehaviour
+    public class FirstPersonCharacterSetup : MonoBehaviour
 {
     [Header("References")]
     public Transform cameraTransform;
