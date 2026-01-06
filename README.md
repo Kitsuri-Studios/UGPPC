@@ -4,7 +4,7 @@ A character controller for [Unity Game Engine](https://unity.com/) providing bas
 
 ## Features
 1. Walking with adjustable speed
-2. FIrst person camera movement
+2. First person camera movement
 3. Basic Physics
 4. Touch Controller
 5. Sample joystick background and handle for testing
@@ -31,3 +31,9 @@ Now Create another Empty GameObject in the hirerchy parenting to the **"Player"*
 <br>
 <img width="335" height="271" alt="image" src="https://github.com/user-attachments/assets/21b48fb5-9913-4bce-a069-fd63971cd796" />
 
+Next create a Camera as the child of **"CameraHolder"** we just created
+
+
+<img width="332" height="128" alt="image" src="https://github.com/user-attachments/assets/a4237be5-3f8d-4558-8676-b2df2ee3db24" />
+
+### [The First Person Character Setup Script](https://github.com/Kitsuri-Studios/UGPPC/blob/0.1/dev.kitsuri.ugppc/Scripts/FirstPersonPlayerCharacterSetup.cs)
