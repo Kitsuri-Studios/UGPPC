@@ -36,4 +36,24 @@ Next create a Camera as the child of **"CameraHolder"** we just created
 
 <img width="332" height="128" alt="image" src="https://github.com/user-attachments/assets/a4237be5-3f8d-4558-8676-b2df2ee3db24" />
 
+Create a two UI images in the scene, you can name them as **JoystickBackground** and **JoystickHandle** and allign them accordinng to yourself.
+
+<img width="340" height="255" alt="image" src="https://github.com/user-attachments/assets/bd31d349-8972-4348-80e2-2dfa5a0c378f" />
+
+
 ### [The First Person Character Setup Script](https://github.com/Kitsuri-Studios/UGPPC/blob/0.1/dev.kitsuri.ugppc/Scripts/FirstPersonPlayerCharacterSetup.cs)
+
+After Applying the script do the following:
+
+In the inspector, assign the camera to **"Camera Transform"**
+                  assign the JoystickBackground to **"Joystick"**
+
+Now you can adjust the Move Speed, Gravity, Look Senstivity and MaxLookAngle according to your preference
+
+
+<img width="394" height="1039" alt="image" src="https://github.com/user-attachments/assets/1898edbb-6752-402d-af55-f59ff8c60bec" />
+
+
+## License
+
+Apache - 2.0. See [**LICENSE**](https://www.apache.org/licenses/) for more details.
