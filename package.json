@@ -6,7 +6,8 @@
   "unity": "2022.3",
   "author": {
     "name": "Kitsuri Studios",
-    "email": "kitsuristudios@gmail.com"
+    "email": "kitsuristudios@gmail.com",
+    "hideInEditor": true
     
   }
 }
