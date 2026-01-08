@@ -4,7 +4,6 @@
   "displayName": "Unity General Purpose Player Controller",
   "description": "First person player movement for mobile",
   "unity": "2022.3",
-  "hideInEditor": true,
   "author": {
     "name": "Kitsuri Studios",
     "email": "kitsuristudios@gmail.com"
