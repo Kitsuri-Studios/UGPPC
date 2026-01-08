@@ -1,6 +1,6 @@
 ﻿{
   "name": "dev.kitsuri.ugppc",
-  "version": "0.1",
+  "version": "0.0.1",
   "displayName": "Unity General Purpose Player Controller",
   "description": "First person player movement for mobile",
   "unity": "2022.3.62f3",
