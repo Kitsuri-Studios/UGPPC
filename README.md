@@ -2,6 +2,9 @@
 ## Description
 A character controller for [Unity Game Engine](https://unity.com/) providing basic mechanism for first person camera based player setup in the editor.
 
+
+## Installation
+Drag and drop the Runtime folder into your project.
 ## Features
 1. Walking with adjustable speed
 2. First person camera movement
