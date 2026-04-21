@@ -29,8 +29,8 @@ using UnityEngine.EventSystems;
 
 namespace UGPPC.dev.kitsuri.ugppc
 {
-    public class JoystickController : MonoBehaviour, 
-        IPointerDownHandler, IDragHandler,IPointerUpHandler
+    public class JoystickController : MonoBehaviour,
+        IPointerDownHandler, IDragHandler, IPointerUpHandler
     {
         public RectTransform background;
         public RectTransform handle;
